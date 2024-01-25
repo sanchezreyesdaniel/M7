@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <section class="dropdown-menu" id="dropdown-menu">
+    <button onclick="handleDropdownClicked(event)">
+      <span class="material-symbols-outlined"> account_circle </span>
+      Username
+      <span id="dropdown-icon" class="chevron material-symbols-outlined"> expand_more </span>
+    </button>
+    <section class="dropdown-menu__labels">
+      <div id="primary-menu" class="primary-menu">
+        <div class="primary-menu__labels">
+          <button onclick="handleMenuLabelClicked('store')">
+            <span class="material-symbols-outlined"> store </span>
+            Store
+            <span class="chevron material-symbols-outlined">
+              chevron_right
+            </span>
+          </button>
+          <button onclick="handleMenuLabelClicked('manage-settings')">
+            <span class="material-symbols-outlined"> manage_accounts </span>
+            Account
+            <span class="chevron material-symbols-outlined">
+              chevron_right
+            </span>
+          </button>
+          <button>
+            <span class="material-symbols-outlined"> logout </span>
+            Sign Out
+          </button>
+        </div>
+
+        <section id="store" class="secondary-menu__labels" onclick="handleMenuLabelClicked()">
+          <button>
+            <span class="material-symbols-outlined"> shopping_cart </span>
+            Cart
+          </button>
+          <button>
+            <span class="material-symbols-outlined"> payment </span>
+            Manage Payment
+          </button>
+          <button>
+            <span class="material-symbols-outlined"> local_shipping </span>
+            Track Shipping
+          </button>
+
+        </section>
+        <section id="manage-settings" class="secondary-menu__labels" onclick="handleMenuLabelClicked()">
+          <button>
+            <span class="material-symbols-outlined"> shield_lock </span>
+            Change Password
+          </button>
+          <button>
+            <span class="material-symbols-outlined"> notifications </span>
+            Notifications
+          </button>
+          <button>
+            <span class="material-symbols-outlined"> contact_support </span>
+            Contact Support
+          </button>
+        </section>
+      </div>
+    </section>
+  </section>
+  <script type="text/javascript" src="main.js"></script>
+</body>
+
+</html>
