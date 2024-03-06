@@ -1,0 +1,246 @@
+Working...
+Working...
+Working...
+Working...
+Working...
+2024-03-06 15:07:17	Working...
+2024-03-06 15:16:11	25Working...
+2024-03-06 15:16:11	50Working...
+2024-03-06 15:16:11	15Working...
+2024-03-06 15:17:01	25Working...
+2024-03-06 15:17:01	50Working...
+2024-03-06 15:17:01	85Working...
+2024-03-06 15:17:01	100Working...
+2024-03-06 15:17:01	15Working...
+2024-03-06 15:27:42	25	Working... 
+2024-03-06 15:27:42	50	Working... 
+2024-03-06 15:27:42	85	Working... 
+2024-03-06 15:27:42	100	Working... 
+2024-03-06 15:27:42	15	Working... 
+2024-03-06 15:30:35	25	Working... 
+2024-03-06 15:30:35	50	Working... 
+2024-03-06 15:30:35	85	Working... 
+2024-03-06 15:30:35	100	Working... 
+2024-03-06 15:30:35	15	Working... 
+2024-03-06 15:31:13	WARNING	Working....
+2024-03-06 15:31:13	NOTICE	Working....
+2024-03-06 15:31:13	INFO	Working....
+2024-03-06 15:31:13	DEBUG	Working....
+2024-03-06 15:31:13	[NOLEVEL]	Working....
+2024-03-06 15:31:13	[NOLEVEL]	Working....
+2024-03-06 16:07:59	WARNING	Working....
+2024-03-06 16:07:59	NOTICE	Working....
+2024-03-06 16:07:59	INFO	Working....
+2024-03-06 16:07:59	DEBUG	Working....
+2024-03-06 16:07:59	[NOLEVEL]	Working....
+2024-03-06 16:07:59	[NOLEVEL]	Working....
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb FirstName i Dani
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb LastName i Sanchez
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb Username i DanielSanchez
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb Password i P@ssw0rd
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb EmailAddress i dani@gmail.com
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb DateAccountCreated i 2022-06-06
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb TimeAccountCreated i 10:20:00
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb DateLastLogin i 2008-10-26
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb TimeLastLogin i 18:45:00
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb FirstName i Alice
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb LastName i Johnson
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb Username i AliceJ
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb Password i PawordSecure
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb EmailAddress i alice.j@example.com
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb DateAccountCreated i 2021-11-02
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb TimeAccountCreated i 09:30:15
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb DateLastLogin i 2023-05-20
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb TimeLastLogin i 20:18:00
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb FirstName i Emma
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb LastName i Smith
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb Username i EmmaS123
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb Password i StrongP@ss
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb EmailAddress i emma.smith@example.com
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb DateAccountCreated i 2023-01-10
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb TimeAccountCreated i 12:15:20
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb DateLastLogin i 2023-09-05
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb TimeLastLogin i 16:28:45
+2024-03-06 16:07:59	CRITICAL	SE HA BORRADO EL 
+2024-03-06 16:07:59	NOTICE	S'ha cridat la funció SetAccessor amb FirstName i Dani2
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb LastName i Sanchez2
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb Username i DanielSanchez2
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb Password i P@ssw0rd2
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb EmailAddress i dani@gmail.com2
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb DateAccountCreated i 2022-06-02
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb TimeAccountCreated i 10:20:02
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb DateLastLogin i 2008-10-22
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb TimeLastLogin i 18:45:02
+2024-03-06 16:08:00	CRITICAL	SE HA BORRADO EL 
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb FirstName i Alice2
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb LastName i Johnson2
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb Username i AliceJ2
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb Password i PawordSecure2
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb EmailAddress i alice.j@example.com2
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb DateAccountCreated i 2021-11-02
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb TimeAccountCreated i 09:30:12
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb DateLastLogin i 2023-05-22
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb TimeLastLogin i 20:18:02
+2024-03-06 16:08:00	CRITICAL	SE HA BORRADO EL 
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb FirstName i Emma2
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb LastName i Smith2
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb Username i EmmaS1232
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb Password i StrongP@ss2
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb EmailAddress i emma.smith@example.com2
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb DateAccountCreated i 2023-01-12
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb TimeAccountCreated i 12:15:22
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb DateLastLogin i 2023-09-02
+2024-03-06 16:08:00	NOTICE	S'ha cridat la funció SetAccessor amb TimeLastLogin i 16:28:42
+2024-03-06 16:08:00	DEBUG	SE HA ACTUALIZADO
+2024-03-06 16:08:00	DEBUG	SE HA ACTUALIZADO
+2024-03-06 16:08:00	DEBUG	SE HA ACTUALIZADO
+2024-03-06 16:08:00	WARNING	SE HA MARCADO PARA BORRAR
+2024-03-06 16:08:00	CRITICAL	SE HA BORRADO EL 
+2024-03-06 16:08:00	WARNING	SE HA MARCADO PARA BORRAR
+2024-03-06 16:08:00	CRITICAL	SE HA BORRADO EL 
+2024-03-06 16:08:00	WARNING	SE HA MARCADO PARA BORRAR
+2024-03-06 16:08:00	CRITICAL	SE HA BORRADO EL 
+2024-03-06 16:08:43	WARNING	Working....
+2024-03-06 16:08:43	NOTICE	Working....
+2024-03-06 16:08:43	INFO	Working....
+2024-03-06 16:08:43	DEBUG	Working....
+2024-03-06 16:08:43	[NOLEVEL]	Working....
+2024-03-06 16:08:43	[NOLEVEL]	Working....
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	CRITICAL	SE HA BORRADO EL 
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	CRITICAL	SE HA BORRADO EL 
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	CRITICAL	SE HA BORRADO EL 
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:08:43	DEBUG	SE HA ACTUALIZADO
+2024-03-06 16:08:43	DEBUG	SE HA ACTUALIZADO
+2024-03-06 16:08:43	DEBUG	SE HA ACTUALIZADO
+2024-03-06 16:08:43	WARNING	SE HA MARCADO PARA BORRAR
+2024-03-06 16:08:43	CRITICAL	SE HA BORRADO EL 
+2024-03-06 16:08:43	WARNING	SE HA MARCADO PARA BORRAR
+2024-03-06 16:08:43	CRITICAL	SE HA BORRADO EL 
+2024-03-06 16:08:43	WARNING	SE HA MARCADO PARA BORRAR
+2024-03-06 16:08:43	CRITICAL	SE HA BORRADO EL 
+2024-03-06 16:10:33	WARNING	Working....
+2024-03-06 16:10:33	NOTICE	Working....
+2024-03-06 16:10:33	INFO	Working....
+2024-03-06 16:10:33	DEBUG	Working....
+2024-03-06 16:10:33	[NOLEVEL]	Working....
+2024-03-06 16:10:33	[NOLEVEL]	Working....
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:33	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	CRITICAL	SE HA BORRADO 
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	CRITICAL	SE HA BORRADO 
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	CRITICAL	SE HA BORRADO 
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	NOTICE	S'ha cridat la funció SetAccessor
+2024-03-06 16:10:34	DEBUG	SE HA ACTUALIZADO
+2024-03-06 16:10:34	DEBUG	SE HA ACTUALIZADO
+2024-03-06 16:10:34	DEBUG	SE HA ACTUALIZADO
+2024-03-06 16:10:34	WARNING	SE HA MARCADO PARA BORRAR
+2024-03-06 16:10:34	CRITICAL	SE HA BORRADO 
+2024-03-06 16:10:34	WARNING	SE HA MARCADO PARA BORRAR
+2024-03-06 16:10:34	CRITICAL	SE HA BORRADO 
+2024-03-06 16:10:34	WARNING	SE HA MARCADO PARA BORRAR
+2024-03-06 16:10:34	CRITICAL	SE HA BORRADO 
